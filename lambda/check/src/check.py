@@ -1,7 +1,6 @@
 from pprint import pprint
 from lxml import html
 import boto3
-import hashlib
 import requests
 import re
 import decimal
